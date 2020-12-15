@@ -5,6 +5,6 @@ int main() {
 	int ASCII;
 	char ch;
 	cin >> ASCII >> ch;
-	cout << char(ASCII) << _ << int(ch);
+	cout << char(ASCII) << _ << int(ch); //
 	return 0;
 }
